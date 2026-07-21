@@ -52,7 +52,7 @@ export const AppointmentForm: React.FC<AppointmentFormProps> = ({ preselectedSer
       phone: '',
       email: '',
       contactMethod: 'phone',
-      serviceRequested: preselectedService || 'Women’s Haircut',
+      serviceRequested: preselectedService || 'Women’s Haircut & Style',
       preferredDate: '',
       preferredTime: 'Morning (9am - 12pm)',
       altDateOrTime: '',

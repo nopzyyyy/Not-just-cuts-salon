@@ -41,7 +41,7 @@ export const QuoteRequestForm: React.FC = () => {
       name: '',
       phone: '',
       email: '',
-      desiredService: 'Balayage / Ombré',
+      desiredService: 'Full Hair Colour',
       currentHairColour: '',
       desiredResult: '',
       hairLength: 'Medium (shoulder length)',
@@ -173,12 +173,10 @@ export const QuoteRequestForm: React.FC = () => {
             {...register('desiredService')}
             className="w-full px-4 py-3 rounded-xl border border-beige-300 text-sm bg-white focus:ring-2 focus:ring-burgundy"
           >
-            <option value="Balayage / Ombré">Balayage / Ombré</option>
             <option value="Full Hair Colour">Full Hair Colour</option>
-            <option value="Highlights (Full / Partial)">Highlights (Full / Partial)</option>
-            <option value="Colour Correction">Colour Correction</option>
-            <option value="Special Event Updo / Styling">Special Event Updo / Styling</option>
-            <option value="Keratin Smoothing">Keratin Smoothing</option>
+            <option value="Root Touch-Up">Root Touch-Up</option>
+            <option value="Foil Highlights">Foil Highlights</option>
+            <option value="Haircut & Style Quote">Haircut & Style Quote</option>
           </select>
         </div>
 
