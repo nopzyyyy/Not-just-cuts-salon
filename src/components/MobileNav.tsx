@@ -66,7 +66,7 @@ export const MobileNav: React.FC<MobileNavProps> = ({ isOpen, onClose, links }) 
 
           <div className="flex items-center justify-center gap-2 text-xs text-warmgrey pt-2">
             <MapPin className="w-4 h-4 text-gold" />
-            <span>Unit 2, 1453 King St E, Cambridge</span>
+            <span>Unit 7, 1453 King St E, Cambridge</span>
           </div>
         </div>
       </div>

@@ -40,20 +40,20 @@ export const SALON_DATA = {
     phone: "519-621-4544",
     phoneClean: "5196214544",
     address: {
-      unit: "Unit 2",
+      unit: "Unit 7",
       street: "1453 King Street East",
       city: "Cambridge",
       province: "Ontario",
       postalCode: "N3H 3R3",
       area: "Preston & Cambridge, ON",
-      fullAddress: "Unit 2, 1453 King Street East, Cambridge, ON N3H 3R3"
+      fullAddress: "Unit 7, 1453 King Street East, Cambridge, ON N3H 3R3"
     },
-    googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1453+King+Street+East+Unit+2+Cambridge+Ontario",
-    googleEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2897.643277189045!2d-80.36214532386866!3d43.38450197067851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b89694d682977%3A0xa97193f41249fa6b!2s1453%20King%20St%20E%20%232%2C%20Cambridge%2C%20ON%20N3H%203R3!5e0!3m2!1sen!2sca!4v1700000000000!5m2!1sen!2sca",
+    googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1453+King+St+E+Unit+7+Cambridge+Ontario",
+    googleEmbedUrl: "https://maps.google.com/maps?q=1453%20King%20St%20E%20Unit%207%2C%20Cambridge%2C%20ON%20N3H%203R3&t=&z=15&ie=UTF8&iwloc=&output=embed",
     email: "info@notjustcutssalon.example.com",
     contactNote: "This form sends an appointment request. Your appointment is confirmed once salon staff contacts you.",
     hoursNote: "Business hours coming soon. Please call 519-621-4544 to confirm availability or schedule an appointment.",
-    parkingInfo: "Convenient free parking available directly outside Unit 2.",
+    parkingInfo: "Convenient free parking available directly outside Unit 7.",
     accessibilityInfo: "Easy ground-level entrance with comfortable seating.",
     socials: {
       instagram: "https://instagram.com/notjustcuts_placeholder",
@@ -226,7 +226,7 @@ export const SALON_DATA = {
   },
 
   whyChooseUs: [
-    { title: "Convenient Cambridge Location", desc: "Located at Unit 2, 1453 King Street East with easy free parking." },
+    { title: "Convenient Cambridge Location", desc: "Located at Unit 7, 1453 King Street East with easy free parking." },
     { title: "Cuts for the Whole Family", desc: "Services for women, men, seniors, and children in one spot." },
     { title: "Honest & Transparent Prices", desc: "Clear starting prices with upfront service discussions." },
     { title: "Easy Online Requests", desc: "Request your preferred appointment time online in seconds." },
@@ -251,7 +251,7 @@ export const SALON_DATA = {
     {
       id: "faq-4",
       question: "Where is the salon located?",
-      answer: "Unit 2, 1453 King Street East, Cambridge, ON (serving the Preston area). Parking is right outside our door."
+      answer: "Unit 7, 1453 King Street East, Cambridge, ON (serving the Preston area). Parking is right outside our door."
     },
     {
       id: "faq-5",

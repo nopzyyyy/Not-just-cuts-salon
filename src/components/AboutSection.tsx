@@ -31,7 +31,7 @@ export const AboutSection: React.FC = () => {
                   Cambridge & Preston Community
                 </span>
                 <p className="font-serif text-lg font-bold mt-0.5">
-                  Unit 2, 1453 King Street East
+                  Unit 7, 1453 King Street East
                 </p>
               </div>
             </div>

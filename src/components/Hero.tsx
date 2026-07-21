@@ -22,7 +22,7 @@ export const Hero: React.FC = () => {
             {/* Location Pill */}
             <div className="inline-flex items-center gap-2 self-start bg-white/10 backdrop-blur-md border border-white/20 px-4 py-1.5 rounded-full text-xs font-semibold text-gold-light">
               <MapPin className="w-3.5 h-3.5 text-gold-light" />
-              <span>Unit 2, 1453 King Street East • Preston & Cambridge</span>
+              <span>Unit 7, 1453 King Street East • Preston & Cambridge</span>
             </div>
 
             {/* Main Headline */}

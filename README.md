@@ -1,6 +1,6 @@
 # Not Just Cuts - Hair Salon MVP Website
 
-A modern, production-ready MVP website built for **Not Just Cuts**, a local hair salon located at Unit 2, 1453 King Street East, Cambridge, Ontario (serving Preston & Cambridge).
+A modern, production-ready MVP website built for **Not Just Cuts**, a local hair salon located at Unit 7, 1453 King Street East, Cambridge, Ontario (serving Preston & Cambridge).
 
 Built with **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS**, **Lucide Icons**, **React Hook Form**, and **Zod Validation**.
 

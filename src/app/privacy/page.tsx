@@ -70,7 +70,7 @@ export default function PrivacyPage() {
               <section>
                 <h2 className="font-serif text-xl font-bold text-charcoal mb-2">4. Third-Party Services & Maps</h2>
                 <p>
-                  Our website embeds interactive Google Maps to help customers locate our salon at Unit 2, 1453 King Street East, Cambridge, ON. Interacting with the map may involve third-party cookies subject to Google’s privacy policy.
+                  Our website embeds interactive Google Maps to help customers locate our salon at Unit 7, 1453 King Street East, Cambridge, ON. Interacting with the map may involve third-party cookies subject to Google’s privacy policy.
                 </p>
               </section>
 
